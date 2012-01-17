@@ -21,6 +21,7 @@ $app['description'] = 'Services overview... blah blah blah';
 $app['name'] = 'Services';
 $app['category'] = lang('base_category_system');
 $app['subcategory'] = 'Apps and Services';
+$app['menu_enabled'] = FALSE;
 
 /////////////////////////////////////////////////////////////////////////////
 // Controllers
